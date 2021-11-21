@@ -1,0 +1,6 @@
+[submodule "frontend-v2"]
+	path = frontend-v2
+	url = git@github.com:Wall-Of-Shame/frontend-v2.git
+[submodule "backend-v2"]
+	path = backend-v2
+	url = git@github.com:Wall-Of-Shame/backend-v2.git
