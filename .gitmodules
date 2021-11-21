@@ -4,3 +4,6 @@
 [submodule "backend-v2"]
 	path = backend-v2
 	url = git@github.com:Wall-Of-Shame/backend-v2.git
+[submodule "landing-page"]
+	path = landing-page
+	url = git@github.com:Wall-Of-Shame/landing.git
